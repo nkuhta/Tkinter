@@ -1,4 +1,4 @@
-# Tkinter
+# Tkinter GUI for Python 
 
 **[First GUI](https://github.com/nkuhta/Tkinter/blob/master/First%20GUI.ipynb)**  
 &ensp; Setting up first Tkinter Python GUI. 
